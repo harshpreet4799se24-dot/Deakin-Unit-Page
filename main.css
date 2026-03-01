@@ -18,8 +18,7 @@ a:hover {
 
 /* Header */
 .header {
-  background: linear-gradient(90deg, #0f766e, #0b57d0);
-  padding: 14px 18px;
+  background-color: blue;
   text-align: right;
   border-bottom-left-radius: 16px;
   border-bottom-right-radius: 16px;
