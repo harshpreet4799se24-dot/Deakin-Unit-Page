@@ -7,6 +7,7 @@
 table {
     border-collapse: collapse;
     width: 100%;
+    margin-top: 10px;
 }
 
 th, td {
@@ -14,6 +15,14 @@ th, td {
     padding: 8px;
 }
 
+th {
+    background-color: #e0e0e0;
+}
+
 tr:nth-child(even) {
     background-color: #f2f2f2;
+}
+
+h2 {
+    margin-top: 30px;
 }
